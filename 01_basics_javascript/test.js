@@ -1,1 +1,1 @@
-console.log("Ranjit Aiwale");-101
+console.log("Ranjit Aiwale");
