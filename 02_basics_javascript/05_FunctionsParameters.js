@@ -31,5 +31,10 @@ function loginMsg(username){
 }
 console.log(loginMsg(""))
 
+
+
+
 // in this case when user did not entered any value in username then it will print undefined to avoid that let us make one condition
+
+
 
